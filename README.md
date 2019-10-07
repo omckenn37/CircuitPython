@@ -10,7 +10,7 @@ This assignment was a bit tough becuase it was our first experience with Circuit
 
 ### Pictures
 This is a quick Fritzing of this assignment. As you can see, it is very simple to wire. 
-[Fritzing for LED_Fade](/H:/Pictures/LED_Fade_Fritzing_bb.png)
+![Fritzing for LED_Fade](/This PC/H:/Pictures/LED_Fade_Fritzing_bb.png)
 
 ## Servo with Capacitive Touch
 ### Description
