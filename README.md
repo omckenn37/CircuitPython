@@ -32,8 +32,46 @@ We used a button and a switch for the first time in this assignment. Like everyt
 
 ## Photointerrupter
 ### Description
-In this assignment, we used a photointerruper and displayed the number of interruptions every 4 seconds. In addition, 
+In this assignment, we used a photointerruper and displayed the number of interruptions every 4 seconds. In addition, we were not allowed to use time.sleep(). Instead, we had to use time.monotonic(). 
 
 ### Lessons Learned
+In this assignment, we learned how to use time.monotonic(). It essentially counts the number of seconds and then prints every 4 seconds. This way we can still count the number of interruptions every second but only print them every 4 seconds. 
 
 ### Pictures
+
+## Distance Sensor
+### Description
+For this assignment, we only used an ultrasonic sensor. We had to get distances from the sensor, and then display a color on the onboard LED that corrosponded with the distance. 
+
+### Lessons Learned
+We were using ultrasonic sensors for the first time with circuitpython, so we learned how to do that. Also, we learned how to map values in circuitpython, which proved to be very important for this assignment. 
+
+### Pictures
+
+## Classes, Objects, and Modules
+### Description
+In this assignment, we learned how to do classes, objects, and modules in circuitpython. We had to create a library that enabled us to use the code given to us. The code given was suppossed to manipulate RGB LEDs by turnign them on, switching colors, and then fading them through the colors of the rainbow. 
+
+### Lessons Learned
+We learned how to map values in circuitpython, which was important because we had to convert many values. We also learned how to use and wire RGB LEDs. Overall, this assignment was fairly challenging. 
+
+### Pictures
+
+## Hello VS Code
+### Description
+In this assignment, we had to print "Hello" in Visual Studio code. 
+
+### Lessons Learned
+Although this assignment may seem very simple, it was hard because it was our first time using VS code. There weere a lot of errors and bugs that we had to go through and fix. To some extent, this carried over to the next assignment because we were still running into some of the same issues.
+
+### Pictures
+
+## FancyLED
+### Description
+In this assignment, we had to wire 6 LEDs and then create a library that was able to use the code given to us. 
+
+### Lessons Learned
+During this assignment, we learned how to better use different things in VS code such as serial monitor and terminal. In some ways, this assignment was similar to the Classes, Objects, and Modules assignment because we were using the same sort of structure. 
+
+### Pictures
+
