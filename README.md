@@ -11,7 +11,7 @@ This assignment was a bit tough becuase it was our first experience with Circuit
 ### Pictures
 This is a quick Fritzing of this assignment. As you can see, it is very simple to wire. 
 
-<img src="media/LED_Fade_Fritzing_bb.png" width="300">
+<img src="media/Servo_bb.png" width="300">
 
 ## Servo with Capacitive Touch
 ### Description
@@ -21,6 +21,8 @@ In this assignment, I used two wires to control a servo. Touching one wire turne
 This assignment was hard because it was the first time I used a PWM pin. The setup is different from analog and gital pins, so we had to do a bit of research to figure out how to set it up. Also, we used capacitive touch for the first time. This enabled us to control the servo without having any buttons. 
 
 ### Pictures
+
+<img src="media/" width="300">
 
 ## LCD With Button
 ### Description
