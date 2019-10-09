@@ -11,9 +11,7 @@ This assignment was a bit tough becuase it was our first experience with Circuit
 ### Pictures
 This is a quick Fritzing of this assignment. As you can see, it is very simple to wire. 
 
-![My image](omckenn37.github.com/repository/CircuitPython/LED_Fade_Fritzing_bb.png)
-
-![alt text](http://github.com/omckenn37/CircuitPython/LED_Fade_Fritzing_bb.png)
+<img src="media/LED_Fade_Fritzing_bb.png" width="150">
 
 ## Servo with Capacitive Touch
 ### Description
