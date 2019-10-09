@@ -22,7 +22,7 @@ This assignment was hard because it was the first time I used a PWM pin. The set
 
 ### Pictures
 
-<img src="media/Servo_bb.png" width="300">
+<img src="media/Servo_bb.png" width="350">
 
 ## LCD With Button
 ### Description
@@ -41,6 +41,8 @@ In this assignment, we used a photointerruper and displayed the number of interr
 In this assignment, we learned how to use time.monotonic(). It essentially counts the number of seconds and then prints every 4 seconds. This way we can still count the number of interruptions every second but only print them every 4 seconds. 
 
 ### Pictures
+
+<img src="media/Photointerrupter assignment.png" width="300">
 
 ## Distance Sensor
 ### Description
@@ -78,3 +80,4 @@ During this assignment, we learned how to better use different things in VS code
 
 ### Pictures
 
+<img src="media/FancyLED_bb.png" width="400">
