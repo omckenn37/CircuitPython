@@ -1,6 +1,5 @@
 import time
 
 while True:
-    print("Popeyes")
-    time.sleep(1)
-
+    print("hello") # Prints "Hello" 
+    time.sleep(1) # Stops for 1 second 
