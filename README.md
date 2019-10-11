@@ -32,6 +32,7 @@ In this assignment, I used an LCD screen, button, and a switch. The objective wa
 We used a button and a switch for the first time in this assignment. Like everything else, we had to look up how to use buttons and switches. In the end the code wasn't very hard. We did have a bit of issues with the timing. Sometimes, the LCD would count twice, and sometimes it would count at all. We had to mess around with the delays a bit and find the right timing. 
 
 ### Pictures
+<img src="media/LCDWiring.png" width="500">
 
 ## Photointerrupter
 ### Description
@@ -52,6 +53,7 @@ For this assignment, we only used an ultrasonic sensor. We had to get distances 
 We were using ultrasonic sensors for the first time with circuitpython, so we learned how to do that. Also, we learned how to map values in circuitpython, which proved to be very important for this assignment. 
 
 ### Pictures
+<img src="media/Distance_Sensor.png" width="300">
 
 ## Classes, Objects, and Modules
 ### Description
@@ -61,6 +63,7 @@ In this assignment, we learned how to do classes, objects, and modules in circui
 We learned how to map values in circuitpython, which was important because we had to convert many values. We also learned how to use and wire RGB LEDs. Overall, this assignment was fairly challenging. 
 
 ### Pictures
+<img src="media/Untitled Sketch 2_bb.png" width="300">
 
 ## Hello VS Code
 ### Description
@@ -68,8 +71,6 @@ In this assignment, we had to print "Hello" in Visual Studio code.
 
 ### Lessons Learned
 Although this assignment may seem very simple, it was hard because it was our first time using VS code. There weere a lot of errors and bugs that we had to go through and fix. To some extent, this carried over to the next assignment because we were still running into some of the same issues.
-
-### Pictures
 
 ## FancyLED
 ### Description
