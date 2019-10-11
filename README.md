@@ -63,7 +63,7 @@ In this assignment, we learned how to do classes, objects, and modules in circui
 We learned how to map values in circuitpython, which was important because we had to convert many values. We also learned how to use and wire RGB LEDs. Overall, this assignment was fairly challenging. 
 
 ### Pictures
-<img src="media/Untitled Sketch 2_bb.png" width="300">
+<img src="media/Untitled Sketch 2_bb.png" width="400">
 
 ## Hello VS Code
 ### Description
